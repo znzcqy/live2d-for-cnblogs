@@ -49,7 +49,7 @@ function autoResize(){
 	// console.log(wH); //去掉没啥必要的控制台输出
 	if (wH < 768) {
 		x.style.transformOrigin = "0% 100%"; //模型缩放中心改为以左下角	
-		x.style.transform = "scale(0.3)";
+		x.style.transform = "scale(0.32)";
 	}
 	else{
 		x.style.transformOrigin = "0% 100%"; //模型缩放中心改为以左下角
