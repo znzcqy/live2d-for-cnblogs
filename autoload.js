@@ -53,7 +53,7 @@ function autoResize(){
 	}
 	else{
 		x.style.transformOrigin = "0% 100%"; //模型缩放中心改为以左下角
-		x.style.transform = "scale(0.8)";
+		x.style.transform = "scale(0.76)";
 	}
 
 }
